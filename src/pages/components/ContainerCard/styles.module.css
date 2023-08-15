@@ -1,0 +1,8 @@
+.container {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 24rem 24rem 24rem;
+    gap: 1rem;
+    margin-top: 2.5rem;
+  }
+  

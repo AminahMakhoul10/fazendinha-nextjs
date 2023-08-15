@@ -1,0 +1,12 @@
+:root {
+  --green-100: #50AA5A;
+  --green-300: #225243;
+  --green-500: #1b4436;
+ }
+ 
+ * {
+  padding: 0;
+  margin: 0;
+  
+  box-sizing: border-box;
+ }
